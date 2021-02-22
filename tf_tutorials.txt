@@ -1,6 +1,0 @@
-https://www.tensorflow.org/tutorials/keras/text_classification - text classification with tf
-https://www.tensorflow.org/tensorboard/get_started - Get started with TensorBoard (visualizagion)
-https://cs.stanford.edu/people/karpathy/deepimagesent/ - image captioning (RNN)
-https://www.tensorflow.org/guide/keras/rnn#rnn_state_reuse - tensorflow RNN guide 
-https://www.tensorflow.org/api_docs/python/tf/keras/layers/GRU - tensorflow GRU layer
-https://www.tensorflow.org/guide/keras/custom_layers_and_models - making new Layers and Models via subclassing
